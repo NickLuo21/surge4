@@ -1,0 +1,12 @@
+proxies:
+  - name: Shadowsocks
+    type: socks5
+    server: 106.53.218.235
+    port: 7020
+proxy-groups:
+  - name: Proxy
+    type: select
+    proxies:
+      - sealink
+rules:
+  - "MATCH,DIRECT"
