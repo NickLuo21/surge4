@@ -5,7 +5,7 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: 🇨🇳 sealink, type: socks5, server: 106.53.218.235, 7020 }
+  - {name: 🇨🇳 sealink, type: socks5, server: 106.53.218.235, port: 7020 }
 proxy-groups:
   - name: 🔰 节点选择
     type: select
