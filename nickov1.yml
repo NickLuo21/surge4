@@ -1,5 +1,5 @@
 proxies:
-  - name: sealink
+  - name: nickov1
     type: vmess
     server: 158.101.144.108
     port: 10086
@@ -10,6 +10,6 @@ proxy-groups:
   - name: Proxy
     type: select
     proxies:
-      - sealink
+      - nickov1
 rules:
   - "MATCH,DIRECT"
