@@ -1,0 +1,15 @@
+proxies:
+  - name: sealink
+    type: vmess
+    server: 158.101.144.108
+    port: 10086
+    uuid: 94951f13-b0d3-49e6-b09c-63fd7d257211
+    alterId: 0
+    cipher: auto
+proxy-groups:
+  - name: Proxy
+    type: select
+    proxies:
+      - sealink
+rules:
+  - "MATCH,DIRECT"
