@@ -23,6 +23,7 @@ proxy-groups:
     interval: 3000
     proxies:
       - 🇨🇳 sealink
+      - 🇨🇳 nickov1
       - 🇨🇳 nickherokuv2
   - name: 🌍 国外媒体
     type: select
