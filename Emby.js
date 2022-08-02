@@ -16,9 +16,6 @@ HOST, servers.xeton.dev, Emby
 # Nexitally/AmyTelecom专属服（仅限美国专用节点观看）
 HOST, emby.nexitally.com, Emby
 
-# Skicat专属服
-HOST, https://skicat.tv, Emby
-
 # Godetia专属服1（猫熊）
 HOST, emby.ssltd.xyz, Emby
 
