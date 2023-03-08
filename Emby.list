@@ -32,8 +32,5 @@ HOST, hsint.the98.ltd, Emby
 DOMAIN-SUFFIX, the98.ltd, Emby
 
 # misakaF
-HOST, cf3.misakaf.org, Emby
+DOMAIN-SUFFIX, misakaf.org, Emby
 
-# ednovas
-DOMAIN, pemby.ednovas.org, Emby
-DOMAIN, emby.ednovas.org, Emby
