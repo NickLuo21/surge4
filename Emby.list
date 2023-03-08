@@ -23,9 +23,6 @@ DOMAIN-SUFFIX, ssltd.xyz, Emby
 # Godetia专属服2（3DM）
 HOST, emby.3DMmp.com, Emby
 
-# cc
-HOST, emby.jiasu.ga, Emby
-
 # o9o
 HOST, vipint.the98.ltd, Emby
 HOST, hsint.the98.ltd, Emby
