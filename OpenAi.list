@@ -3,3 +3,4 @@
 DOMAIN-SUFFIX, ai.com, OpenAi
 DOMAIN-SUFFIX, challenges.cloudflare.com, OpenAi
 DOMAIN-SUFFIX, openai.com, OpenAi
+DOMAIN-SUFFIX, sentry.io, OpenAi
