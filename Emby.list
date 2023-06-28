@@ -34,3 +34,6 @@ DOMAIN-SUFFIX, misakaf.org, Emby
 # Texon
 DOMAIN-SUFFIX, texon.one, Emby
 
+# DiDi
+DOMAIN, media05.newwan.top, Emby
+
