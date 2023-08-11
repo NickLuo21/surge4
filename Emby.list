@@ -37,3 +37,9 @@ DOMAIN-SUFFIX, texon.one, Emby
 # DiDi
 DOMAIN, media05.newwan.top, Emby
 
+# Peach
+DOMAIN-SUFFIX, embymv.me, Emby
+DOMAIN-SUFFIX, embymv.tk, Emby
+
+# reddust emby
+DOMAIN, av.happyav.eu.org, Emby
