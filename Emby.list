@@ -42,6 +42,6 @@ DOMAIN-SUFFIX, embymv.me, Emby
 DOMAIN-SUFFIX, embymv.tk, Emby
 
 # reddust emby
-DOMAIN, av.happyav.eu.org, Emby
-DOMAIN, vip.reddust.link, Emby
-DOMAIN, cc.semby.ink, Emby
+DOMAIN-SUFFIX, av.happyav.eu.org, Emby
+DOMAIN-SUFFIX, reddust.link, Emby
+DOMAIN-SUFFIX, semby.ink, Emby
