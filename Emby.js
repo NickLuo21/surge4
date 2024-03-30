@@ -1,5 +1,5 @@
 # 关键字匹配
-HOST-KEYWORD, emby, Emby
+# HOST-KEYWORD, emby, Emby
 
 # AGA公益服(中国电信可直连观看)
 HOST, emby.plusmedia.site, Emby
